@@ -2,7 +2,6 @@ package vttp2022.paf.assessment.eshop.respositories;
 
 import java.util.LinkedList;
 import java.util.List;
-import java.util.Optional;
 
 import vttp2022.paf.assessment.eshop.models.Customer;
 

@@ -53,7 +53,7 @@ public class OrderController {
 			e.printStackTrace();
 		}
 
-		return "/checkout";
+		return "checkout";
 	}
 
 }
